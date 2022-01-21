@@ -9,7 +9,7 @@
      processorArchitecture="X86"
      name="IsIt"
      type="win32"/> 
-  <description>Sort files</description> 
+  <description>Compare passed date/time values to current date/time.</description> 
    <dependency>
       <dependentAssembly>
       <!--
