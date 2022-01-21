@@ -1,0 +1,18 @@
+# Docu
+zDOKU/
+
+# Executables
+*.exe
+*.dll
+
+# Temp. test &  source files, compiler results, logs
+[Bb]ackup.*
+*.log
+*.tra
+DateTest.*
+
+# Other tools
+*.cmd
+
+# Misc. (binary) files
+*.txt
